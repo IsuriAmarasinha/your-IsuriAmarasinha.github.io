@@ -1,2 +1,2 @@
-# your-IsuriAmarasinha.github.io
+# IsuriAmarasinha.github.io
 This is my e-Portfolio.
